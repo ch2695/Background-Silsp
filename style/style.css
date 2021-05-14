@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+    padding: 0;
+/*    margin: 0;    */
+    background-image: url(../images/bg_grid.gif);
+}
+
+h1 {
+    font-size: 26px;
+}
+
+p {
+    height: 120px;
+    font-size: 20px;
+    border: 24px solid rgba(97, 173, 28, 0.67);
+    /* 16진수 색상표현법 */
+
+    background-color: rgba(255, 0, 0, 0.46);
+    background-clip: content-box;
+}
